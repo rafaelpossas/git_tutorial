@@ -1,0 +1,2 @@
+This is my first GIT File
+Understanding the DIFF command in git
